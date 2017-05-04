@@ -1,8 +1,40 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <!-- Centers cow image and count text. -->
+  <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
+  <div>
+    <img src="images/Cow_cartoon_04.svg"></img>
+    <p>Count: <span>0</span></p>
+  </div>
   <script src="js/memoize.js"></script>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+  <!-- Demonstrating inlining of javascript codes. -->
+  <script>
+    $('img').click((function() {
+      // Demonstrating anonymous contexts with closures. Avoids polluting global scope.
+      // This context is maintained because the returned handler is referenced by 'img' click listener.
+      // This context is created by executing this top-level function.
+      // The anonymity of this context protects it from being accidentally handled elsewhere.
+
+      var count = 0; // Model (data). Separation from View (HTML).
+      $('p span').text(count);
+
+      return function() {
+        // Increment count.
+        count++;
+        // Set count into document for display. Document is also the model (data).
+        $('p span').text(count);
+
+        // Could be easier done with Knockout.js, but wanted to demonstrate
+        // knowledge of underlying listener mechanisms.
+      };
+
+      // Executing this anonymous function immediately (final 2 brackets '( )').
+      // That creates this context, which contains var 'count' (not in global scope).
+    })());
+  </script>
 </body>
 </html
