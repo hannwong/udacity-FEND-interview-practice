@@ -56,10 +56,12 @@ The upside is the declarative paradigm Knockout.js provides. It makes for very c
 
 Fully understand and employ massive web app code organization via [Webpack](https://webpack.github.io) or AMD or ES2015 Modules.
 
-Jump into complex large-scale web app development.
+Jump into complex large-scale web app development. Udacity Blitz can really use my new skills in this area, and I will be able to implement and drive large-scale projects as well as implement smaller projects in very short timeframes.
 
 Within a month or less, get what I need from [Javascript: The Definitive Guide](http://shop.oreilly.com/product/9780596805531.do) to enable me to do the above.
 
 Build a public portfolio, be socially and commercially accepted as a front-end web developer, and move away from my hacker past for good.
 
 Contribute very significantly to my first employer. Perhaps even make him/her rich and powerful, if possible. I've been doing that in secret for many people for years, anyway. Maybe it is now time for me to consider the social missions of and my cultural compatibility with my potential employers, for a change. I want to be of service to people.
+
+Udacity Blitz can also use my language skills to employ geographically distributed team members, to get the best people from around the world. I retain my ability to learn human languages and accents to native fluency within a few months.
