@@ -1,3 +1,21 @@
+# Overview
+
+Github repo for this interview practice: [https://github.com/hannwong/udacity-FEND-interview-practice](https://github.com/hannwong/udacity-FEND-interview-practice)
+
+# Good Fit for Udacity Blitz
+
+**Question**: Why are you a good fit for Udacity Blitz? How do you feel about the job description?
+
+I'm currently doing a BSc Computer Science with ERP (SAP) and UML focus. I wrote the first book on OFBiz, an open-source Java-based ERP platform (used by JIRA).
+
+I reverse-engineer emerging technologies quickly. I am well-equipped to guide the creation and specification (UML), as well as staffing and execution (good hands-on grasp of programming and technologies) of innovative software projects. I also take apart human languages and cultures quickly to rapidly gain excellent and necessary breadth and depth of skills required, be they technical, design related, or organizational.
+
+I have sincere and thorough (I do strive) empathy. I can fully comprehend motivations of external clients and engineers, as well as those of internal staff on the team. I can harmoniously match competing interests from all stakeholders, or at least lead by example in constructive compromises.
+
+Being a hands-on person who loves coding, I can ensure (not just oversee) excellence in technical execution and delivery of our projects. There are no tasks beneath me; I exist to get things done profitably and efficiently.
+
+I'm a naturally likeable mentor. I am quickly popular with students I teach in SUTD --- I facilitate their learning rather than merely tell facts to them. My hands-on attitude keeps my empathy real and relevant over changing times.
+
 # Most Influential Book or Blog Post
 
 **Question**: What is the most influential book or blog post you’ve read regarding front-end development?
@@ -65,3 +83,27 @@ Build a public portfolio, be socially and commercially accepted as a front-end w
 Contribute very significantly to my first employer. Perhaps even make him/her rich and powerful, if possible. I've been doing that in secret for many people for years, anyway. Maybe it is now time for me to consider the social missions of and my cultural compatibility with my potential employers, for a change. I want to be of service to people.
 
 Udacity Blitz can also use my language skills to employ geographically distributed team members, to get the best people from around the world. I retain my ability to learn human languages and accents to native fluency within a few months.
+
+# 3-Year Goal? 5-Year Goal?
+
+**Question**: What would you do in 3 years? In 5 years?
+
+In Singaporean work culture, I would answer this question thus: "*I hope to remain a project manager on Full-Stack Udacity Blitz projects. I don't want any salary increments for the next 5 years while I grow to being a project manager handling more workload --- Full-Stack, iOS and Android projects. I don't see myself getting anywhere else because being a project manager for Udacity Blitz projects is everything I ever dreamed of.*"
+
+(But if you *are* Singaporean, I mean what I say above!)
+
+After talking to my Udacity career counselor, JP Miller, I'm now going to try breaking out of my usual Singaporean mold (or pretense). I'll answer this question as it is asked --- by an employer whose top priority is growing the company and its employees (most important assets).
+
+Firstly, I do work where work needs to be done. No task is beneath me. If I am needed to be a project manager for Udacity Blitz projects my whole life from here on out, I'll do just that.
+
+That said, I am human and I explore new ways of doing things faster and better. I will get better at doing my job as a project manager, even if it means becoming the only human in the team while I employ AI to do the bulk of the work. (We can dream, we *should* dream.)
+
+I'm no Luddite, but I see the only way forward is for humans to do more, via study and innovation. As I had tried to convince my father, I believe we move forward by "*having less humans, doing more work*"; a growing company cannot have more people doing less work. As capital deepens (economic term for "*technology using less people to do more work*"), the only way forward is to keep educating and applying ourselves. Only humans can truly contribute value, not machines that in the long-term drive down profits via mass-production. Continuous efforts in innovation creates value. A non-Luddite has all the more reason to focus on developing humans, all while keeping pace with employing new technologies.
+
+Once I have my mortgage instalments settled (US$1000 / month) so my father gets to keep the apartment I bought for him, I will complete my BSc (3rd attempt, failed twice from financial difficulties) within 2 years and move on to formalizing my other skills.
+
+Maths (statistics) and AI will be my focus after that. Self-driving cars will be my first aim, and Singapore's roads and traffic conditions provide ideal challenge (worst-case scenarios) for that endeavor.
+
+In 5 years' time, after putting competently self-driving cars and buses on the roads, I want to get into education and job creation --- to get all of mankind fully applied and fully curious to learn more. I'm not blind to people who are utterly heedless and cannot be helped, but I believe in getting and gathering more people who act as inspiring examples. Udacity is a good model I can follow. Perhaps I can grow Udacity Blitz in terms of competence in best practices and best-of-breed skills and technologies, and eventually have that spill over to Udacity courses. "*Eat our own dog food*", as the saying goes.
+
+In whatever timeframes I live, I always aim to be of service to you, and to everyone else in this universe. Life is only worth living if lived for others. (I have tolerance for even very low levels of subsistence. I don't need much myself.)
